@@ -28,7 +28,7 @@
         "url": "https://github.com/idigger/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/idigger/node-multi-hashing.git",
+        "multi-hashing": "git://github.com/idigger/node-multi-hashing.git#BranchPr5",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
