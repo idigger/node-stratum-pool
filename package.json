@@ -28,7 +28,7 @@
         "url": "https://github.com/rascal71/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/rascal71/node-multi-hashing.git",
+        "multi-hashing": "git://github.com/idigger/node-multi-hashing.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
