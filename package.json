@@ -12,9 +12,9 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/idigger/node-stratum-pool",
+    "homepage": "https://github.com/idigger/ric-node-stratum-pool",
     "bugs": {
-        "url": "https://github.com/idigger/node-stratum-pool/issues"
+        "url": "https://github.com/idigger/ric-node-stratum-pool/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
@@ -25,10 +25,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/idigger/node-stratum-pool.git"
+        "url": "https://github.com/idigger/ric-node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/idigger/node-multi-hashing.git#BranchPr5",
+        "multi-hashing": "git://github.com/idigger/ric-node-multi-hashing.git#BranchPr5",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
